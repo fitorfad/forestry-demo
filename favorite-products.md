@@ -1,6 +1,18 @@
 ---
 title: Favorite Products
 date: 2019-03-09 07:59:09 -0500
+heading: ''
+sub_heading: ''
+banner_image: ''
+hero_button:
+  text: ''
+  href: ''
+textline: ''
+services: []
+show_news: false
+partners: []
+show_staff: false
+layout: ''
 menu:
   navigation:
     weight: 5
@@ -18,7 +30,7 @@ See [my post](http://supplements-to-my-diet-that-help-me-be-successful/) about M
 
 ### **Sodium and Potassium Supplementation**
 
-[![](http://www.fitorfad.com/wp-content/uploads/2019/01/salt-129x300.jpg =110x256)](https://amzn.to/2M0cYvv)I’ve found that I need to replenish minerals, particularly sodium and potassium, more now than I ever have before. [Morton Lite Salt](https://amzn.to/2SAiGGJ) has a 50/50 blend of these two important minerals.
+I’ve found that I need to replenish minerals, particularly sodium and potassium, more now than I ever have before. [Morton Lite Salt](https://amzn.to/2SAiGGJ) has a 50/50 blend of these two important minerals.
 
 ### **CBD Oil**
 
