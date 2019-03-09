@@ -4,7 +4,6 @@ date: 2019-03-09 07:59:09 -0500
 menu:
   navigation:
     weight: 5
-published: false
 
 ---
 # Favorite Products
